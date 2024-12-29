@@ -2,11 +2,11 @@
 
 <p align="center">
 <a href = "https://www.linkedin.com/in"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-linkedin-48.png"/></a>
-<a href = "https://twitter.com/bishwashsharmaa"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-twitter-48.png"/></a>
-<a href = "https://www.instagram.com"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-instagram-48.png"/></a>
-<a href = "https://www.youtube.com"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-youtube-48.png"/></a>
-<a href="mailto:sharmaabishwas@gmail.com"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-gmail-48.png"></a>
-<a href="https://sharmabishwash.com.np"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-website-48.png"></a>
+<a href = "https://twitter.com/bishwashsharmaa"></a>
+<a href = "https://www.instagram.com"></a>
+<a href = "https://www.youtube.com"></a>
+<a href="mailto:sharmaabishwas@gmail.com"></a>
+<a href="https://sharmabishwash.com.np"></a>
 </p>
 
 
@@ -41,8 +41,8 @@
 </td>
      
  <td align="center" width="25%">
-<span><b><center>SQL Server</center></b></span><br/> 
-<img height=75px src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"> 
+<span><b><center>Oracle PL/SQL</center></b></span><br/> 
+<img height=75px src="https://www.oracle.com/a/ocom/img/pl-sql.svg"> 
 </td>
          
 
