@@ -12,9 +12,10 @@
 
 <!--[Download Resume](https://sharmabishwash.com.np/) -->
 
-![Bishwash's github stats](https://github-readme-stats.vercel.app/api?username=itsbishwas&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/itsbishwas">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbishwas&layout=compact&theme=dark)](https://github.com/itsbishwash)</a>
+<!--![Bishwash's github stats](https://github-readme-stats.vercel.app/api?username=itsbishwas&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/itsbishwas">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbishwas&layout=compact&theme=dark)](https://github.com/itsbishwash)</a>
 
-<a href="https://github.com/itsbishwas/github-readme-activity-graph"><img alt="Bishwash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsbishwas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/itsbishwas/github-readme-activity-graph"><img alt="Bishwash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itsbishwas&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+-->
 
 ## Languages and Tools:
 <br/>
@@ -52,6 +53,8 @@
 #### <p align="center"> Hello there thank you for stopping by !! </p>
 
 <!--     https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+<!--
 <p align="center">
   <img src="https://github.com/itsbishwas/itsbishwas/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
+-->
