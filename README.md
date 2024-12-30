@@ -30,7 +30,7 @@
 
 <td align="center" width="25%">
 <span><b><center>AngularJS</center></b></span><br/> 
-<img height=75px src="https://icons8.com/icon/71257/angularjs"> 
+<img height=75px src="https://material.angularjs.org/latest/img/logo.svg"> 
 </td>
 
 <td align="center" width="25%">
