@@ -48,7 +48,7 @@
 </tbody>
 </table>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=itsbishwas.itsbishwas" alt="Visitors Counter">
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=itsbishwas.itsbishwas" alt="Visitors Counter"> -->
     
 #### <p align="center"> Hello there thank you for stopping by !! </p>
 
