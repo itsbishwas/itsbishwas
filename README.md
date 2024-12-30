@@ -55,7 +55,7 @@
 
 <!-- <img src="https://visitor-badge.glitch.me/badge?page_id=itsbishwas.itsbishwas" alt="Visitors Counter"> -->
     
-#### <p align="center"> Hello there thank you for stopping by !! </p>
+#### <p align="center"> Hello </p>
 
 <!--     https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <!--
