@@ -29,6 +29,11 @@
 </td>
 
 <td align="center" width="25%">
+<span><b><center>AngularJS</center></b></span><br/> 
+<img height=75px src="https://icons8.com/icon/71257/angularjs"> 
+</td>
+
+<td align="center" width="25%">
 <span><b><center>C Sharp</center></b></span><br/> 
 <img height=75px src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> 
 </td>
